@@ -1,3 +1,7 @@
+# Author: Bruce Adams
+# email: ezaroth@gmail.com
+# website: austingamestudios.com
+ 
 def swap_case(s): 
   return s.swapcase()
   

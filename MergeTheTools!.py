@@ -1,3 +1,7 @@
+# Python 3 code
+# Bruce Adams
+# austingamestudios.com
+# ezaroth@gmail.com
 import textwrap
 from collections import OrderedDict
 def merge_the_tools(string, k):

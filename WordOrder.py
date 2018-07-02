@@ -1,3 +1,9 @@
+
+# Python 3 code
+# Bruce Adams
+# austingamestudios.com
+# ezaroth@gmail.com
+
 from collections import Counter, OrderedDict
 class OrderedCounter(Counter, OrderedDict):
     pass

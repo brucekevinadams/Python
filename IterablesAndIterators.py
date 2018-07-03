@@ -1,3 +1,9 @@
+
+# Python 3 code
+# Bruce Adams
+# austingamestudios.com
+# ezaroth@gmail.com
+
 from itertools import combinations
 
 N = int(input())

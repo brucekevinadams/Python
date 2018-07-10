@@ -1,3 +1,9 @@
+
+# Python 2 code
+# Bruce Adams
+# austingamestudios.com
+# ezaroth@gmail.com
+
 if __name__ == '__main__':
   n = int(raw_input())
 integer_list = map(int, raw_input().split())

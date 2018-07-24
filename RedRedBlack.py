@@ -1,3 +1,16 @@
+# Python 3 code
+# Bruce Adams
+# austingamestudios.com
+# ezaroth@gmail.com
+# Python program to find probability
+# There are urns labeled X, Y, and Z.
+#
+#    Urn X contains 4 red balls and 3 black balls.
+#    Urn Y contains 5 red balls and 4 black balls.
+#    Urn Z contains 5 red balls and 4 black balls.
+#
+#  One ball is drawn from each of the urns. What is the probability that, of the 3 balls drawn, 2 are red and 1 is black?
+
 from fractions import Fraction
 
 x = [4, 3]

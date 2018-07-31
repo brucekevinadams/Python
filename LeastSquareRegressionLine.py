@@ -1,3 +1,10 @@
+
+# Python 3 code
+# Bruce Adams
+# austingamestudios.com
+# ezaroth@gmail.com
+# Program problem from Hackerrank.com 
+
 x,y=[],[]
 for i in range(5):
     student = [int(i) for i in input().split()]

@@ -1,3 +1,8 @@
+# Python 3 code
+# Bruce Adams
+# austingamestudios.com
+# ezaroth@gmail.com
+
 N = int(input())
 X = list(map(float,input().strip().split()))
 Y = list(map(float,input().strip().split()))

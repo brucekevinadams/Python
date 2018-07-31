@@ -1,3 +1,10 @@
+
+# Python 3 code
+# Bruce Adams
+# austingamestudios.com
+# ezaroth@gmail.com
+# From a Hackerrank problem
+
 def get_rank(X, n):
     x_rank = dict((x, i+1) for i, x in enumerate(sorted(set(X))))
     return [x_rank[x] for x in X]

@@ -1,3 +1,7 @@
+# Author: Bruce Adams
+# www.austingamestudios.com
+# email: ezaroth@gmail.com
+# Hackerrank problem
 #!/bin/python3
 
 import math

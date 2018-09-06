@@ -1,4 +1,8 @@
+# Author: Bruce Adams
+# www.austingamestudios.com
+# Hackerrank problem
 #!/bin/python3
+
 import sys
 
 #the root function will return root element for given vertex and at the same time update root element for all intermediate vertecies in the tree if their root not equal to current valid root. 

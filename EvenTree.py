@@ -1,3 +1,7 @@
+# Author: Bruce Adams
+# www.austingamestudios.com
+# Hackerrank problem
+
 #!/bin/python3
 
 import os

@@ -1,3 +1,8 @@
+# Author: Bruce Adams
+# www.austingamestudios.com
+# Hackerrank problem
+#!/bin/python3
+
 import math
 import sys
 n=int(input())

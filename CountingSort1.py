@@ -1,6 +1,9 @@
 # Author: Bruce Adams
 # www.austingamestudios.com
 # Hackerrank problem
+# Python 3 Program
+# Create Array that should return an array of integers where each value
+# is the number of occurrences of the element's index value in the original array. 
 #!/bin/python3
 
 import math

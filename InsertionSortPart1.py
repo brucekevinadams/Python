@@ -1,3 +1,7 @@
+# Author: Bruce Adams
+# www.austingamestudios.com
+# Hackerrank problem
+# Python 3 Program
 #!/bin/python3
 
 import math

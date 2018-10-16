@@ -23,7 +23,9 @@ import random
 import re
 import sys
 
+# Get user input
 n = int(input())
+# Sort the input and split into distinct integer numbers
 A = sorted(int(i) for i in input().split())
 
 i = n-3

@@ -1,4 +1,7 @@
-#!/usr/bin/python3
+# Author: Bruce Adams
+# www.austingamestudios.com
+# Hackerrank problem
+#!/bin/python3
 
 N = int(input())
 W = set(map(int, input().split()))
